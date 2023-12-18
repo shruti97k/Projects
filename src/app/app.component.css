@@ -1,0 +1,8 @@
+#myLink {
+    color: blue; /* Default color */
+  }
+  
+  #myLink:hover {
+    color: red; /* Color on hover */
+  }
+  

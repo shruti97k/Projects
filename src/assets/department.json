@@ -1,0 +1,9 @@
+{
+  "departments": [
+    { "deptId": 1, "deptName": "sales" },
+    { "deptId": 2, "deptName": "marketing" },
+    { "deptId": 3, "deptName": "Admin" },
+    { "deptId": 4, "deptName": "Rnd" }
+
+]
+}
